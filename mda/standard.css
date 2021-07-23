@@ -2,7 +2,11 @@
 h1{
     color: #46464E;
     font-family: helvetica;
+    background: #F500E5;
 }
 *{
     font-family: helvetica;
+    color: #46464E;
+    font-variant: small-caps;
+    
 }
